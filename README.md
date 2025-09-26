@@ -46,9 +46,6 @@ El objetivo fue entrenar y evaluar el modelo en múltiples configuraciones para 
 - <img width="422" height="87" alt="image" src="https://github.com/user-attachments/assets/13dc031f-02a1-4bd0-98b1-5b6656300186" />
 
 
-La siguiente figura muestra la evolución de las métricas a lo largo de las corridas:
-
-![Métricas en múltiples corridas](metrics_plots.png)
 
 ---
 
